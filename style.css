@@ -49,7 +49,7 @@ nav a:hover::after {
 }
 
 header {
-  background-image: url('/images/wp2012189.jpg');
+  background-image: url('images/wp2012189.jpg');
   background-size: cover;
   background-position: center center;
   color: #fff;
